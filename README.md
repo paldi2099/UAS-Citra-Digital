@@ -9,7 +9,7 @@ Sistem identifikasi jenis motif batik secara real-time berbasis Computer Vision 
 1. 231011403404  -  Aditya Alfianto
 2. 231011400524  -  Nabil Radina
 3. 231011403045  -  Raihan Fathir M.
-4. 231011403152  -  Revaldi Ridwan
+4. 231011403152  -  Revaldi Ridhwan (saya)
 5. 231011400511  -  Sadam Sofyan
 
 ---
